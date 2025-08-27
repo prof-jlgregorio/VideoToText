@@ -1,4 +1,2 @@
-*.wav
-*.mp3
-*.txt
-.venv\
+temp/
+.venv/
